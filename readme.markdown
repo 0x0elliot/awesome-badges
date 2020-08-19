@@ -30,3 +30,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/bevacqua/awesome-badges.svg?style=social&label=Watch)](https://github.com/bevacqua/awesome-badges)
 [![GitHub followers](https://img.shields.io/github/followers/bevacqua.svg?style=social&label=Follow)](https://github.com/bevacqua/awesome-badges)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nzgb.svg?style=social)](https://twitter.com/nzgb)
+
+<br><br><br>
+I just forked it for easy use lol
